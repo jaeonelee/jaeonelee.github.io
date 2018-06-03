@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[thsdnjstjq1@naver.com](mailto:jaeonelee94@gmail.com)
+[jaeonelee94@gmail.com](mailto:jaeonelee94@gmail.com)
